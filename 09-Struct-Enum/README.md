@@ -34,7 +34,7 @@ int main() {
     struct Mahasiswa mhs1;
 
     // mengisi data
-    strcpy(mhs1.nama, "Pandhu");
+    strcpy(mhs1.nama, "Andini");
     mhs1.umur = 20;
     mhs1.tinggi = 1.75;
 
@@ -69,11 +69,11 @@ struct Mahasiswa {
 int main() {
     struct Mahasiswa mhs[2];
 
-    strcpy(mhs[0].nama, "Pandhu");
+    strcpy(mhs[0].nama, "Pin");
     mhs[0].umur = 20;
     mhs[0].tinggi = 1.75;
 
-    strcpy(mhs[1].nama, "Mira");
+    strcpy(mhs[1].nama, "Pan");
     mhs[1].umur = 19;
     mhs[1].tinggi = 1.65;
 
@@ -108,7 +108,7 @@ int main() {
     struct Mahasiswa mhs;
     struct Mahasiswa *ptr = &mhs;
 
-    strcpy(ptr->nama, "Pandhu");
+    strcpy(ptr->nama, "Andini");
     ptr->umur = 20;
 
     printf("Nama: %s\n", ptr->nama);

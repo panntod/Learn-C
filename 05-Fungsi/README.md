@@ -49,8 +49,8 @@ void sapa_nama(char nama[]) {
 }
 
 int main() {
-    sapa_nama("Pandhu");
-    sapa_nama("Mira");
+    sapa_nama("Pin");
+    sapa_nama("Pan");
     return 0;
 }
 ```

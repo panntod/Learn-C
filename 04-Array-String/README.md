@@ -89,7 +89,7 @@ int main() {
 #include <stdio.h>
 
 int main() {
-    char nama[20] = "Pandhu";
+    char nama[20] = "Asfina";
     printf("Nama saya: %s\n", nama);
     return 0;
 }
