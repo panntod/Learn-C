@@ -14,6 +14,8 @@ Disusun bertahap dari pengenalan dasar hingga file handling.
 7. [Memory Management](./07-Memory-Management/README.md)
 8. [Struct & Enum](./08-Struct-Enum/README.md)
 9. [File Handling](./09-File-Handling/README.md)
+10. [Modular Programing](./10-Modular-Programing/README.md)
+11. [Error Handling](./11-Error-Handling/README.md)
 
 ---
 
