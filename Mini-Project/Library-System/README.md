@@ -46,6 +46,16 @@ Library-System/
    ./program
    ```
 
+Gambaran diagram alur build dari Makefile-mu:
+
+<img src="./alur-diagram.png" alt="Alur Diagram">
+
+* `main.c` + `buku.h` → dikompilasi jadi `main.o`
+* `buku.c` + `buku.h` → dikompilasi jadi `buku.o`
+* `main.o` + `buku.o` → di-linking → menghasilkan executable `program`
+
+Kalau kamu jalankan `make clean`, semua `.o` dan `program` akan dihapus, jadi project bisa dibangun ulang dari nol.
+
 ---
 
 ## 📖 Contoh Penggunaan
