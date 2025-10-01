@@ -1,4 +1,4 @@
-# Materi 6b: Memory Management di C
+# Materi 7: Memory Management di C
 
 ## Konsep Memory di C
 

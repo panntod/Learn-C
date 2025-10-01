@@ -1,4 +1,4 @@
-# Materi 10: Debugging & Error Handling di C
+# Materi 11: Debugging & Error Handling di C
 
 ## Apa itu Debugging?
 
@@ -183,7 +183,7 @@ int main() {
 
 ---
 
-## Latihan untuk Peserta
+## Latihan
 
 1. Buat program bagi dua angka → tambahkan error handling kalau pembagi 0.
 2. Buat program buka file → tampilkan pesan error kalau file tidak ada.

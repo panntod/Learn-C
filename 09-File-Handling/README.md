@@ -1,4 +1,4 @@
-# Materi 8: File Handling di C
+# Materi 9: File Handling di C
 
 ## Apa itu File Handling?
 
@@ -208,7 +208,7 @@ Kemudian bisa dibaca lagi dengan `fscanf`.
 
 ---
 
-## Latihan untuk Peserta
+## Latihan
 
 1. Buat program yang menulis **nama & umur 3 orang** ke file `orang.txt`.
 2. Baca file `orang.txt` lalu tampilkan ke layar.

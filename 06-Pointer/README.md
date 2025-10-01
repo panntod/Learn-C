@@ -47,7 +47,7 @@ Nilai lewat pointer: 20
 
 ---
 
-## 3️⃣ Pointer & Mengubah Nilai Variabel
+## Pointer & Mengubah Nilai Variabel
 
 Pointer bisa digunakan untuk **mengubah nilai variabel dari alamatnya**:
 

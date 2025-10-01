@@ -84,7 +84,7 @@ int main() {
 
 ---
 
-## 3️⃣ `else if` untuk Banyak Kondisi
+## `else if` untuk Banyak Kondisi
 
 ```c
 #include <stdio.h>
@@ -109,7 +109,7 @@ int main() {
 
 ---
 
-## 4️⃣ `switch-case` (Alternatif `if-else`)
+## `switch-case` (Alternatif `if-else`)
 
 ```c
 #include <stdio.h>

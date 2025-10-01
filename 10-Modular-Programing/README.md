@@ -170,18 +170,18 @@ Dengan cara ini, kode jadi **mudah dibaca, dipelihara, dan dibagi ke tim**.
 
 ---
 
-## Latihan untuk Peserta
-
-1. Buat modul `aritmatika` (header & source) → berisi tambah, kurang, kali, bagi.
-2. Buat modul `mahasiswa` (header & source) → struct mahasiswa & fungsi print data.
-3. Buat `main.c` yang memanggil keduanya.
-4. Buat `Makefile` untuk compile otomatis.
-
----
-
 ## Tips & Analogi
 
 * **Header** = kontrak/blueprint → menjelaskan “fungsi apa yang tersedia”.
 * **Source** = implementasi detail.
 * **Main** = pengguna yang hanya peduli hasilnya.
 * Dengan modular programming, kita bisa **membagi kerja antar anggota tim**.
+
+---
+
+## Latihan
+
+1. Buat modul `aritmatika` (header & source) → berisi tambah, kurang, kali, bagi.
+2. Buat modul `mahasiswa` (header & source) → struct mahasiswa & fungsi print data.
+3. Buat `main.c` yang memanggil keduanya.
+4. Buat `Makefile` untuk compile otomatis.

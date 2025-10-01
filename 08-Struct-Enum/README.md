@@ -1,4 +1,4 @@
-# Materi 7: Struct & Enum
+# Materi 8: Struct & Enum
 
 ## Apa itu Struct?
 
